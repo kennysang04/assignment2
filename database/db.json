@@ -1,0 +1,432 @@
+{
+  "users": [
+    {
+      "id": "1708395755369.3923",
+      "username": "Nguyen Nam",
+      "email": "nam@gmail.com",
+      "password": "123"
+    },
+    {
+      "id": "1712723504914.0674",
+      "username": "LinhNhe",
+      "email": "linh@gmail.com",
+      "password": "123456"
+    },
+    {
+      "id": 1712728868361.885,
+      "username": "NamNhes",
+      "email": "namnhe@gmail.com",
+      "password": "123456"
+    }
+  ],
+  "products": [
+    {
+      "id": "1",
+      "tenSP": "Sơ mi Oxford",
+      "giaSP": [
+        {
+          "size": "M",
+          "price": "1.38",
+          "currency": "$"
+        },
+        {
+          "size": "L",
+          "price": "3.15",
+          "currency": "$"
+        },
+        {
+          "size": "XL",
+          "price": "4.29",
+          "currency": "$"
+        }
+      ],
+      "loaiSP": "Sơ Mi ",
+      "linkAnh": "https://i.pinimg.com/564x/13/35/b9/1335b9b141b3a9bd98cbe0796459693e.jpg",
+      "xuatXu": "Châu Âu",
+      "phanLoai": "Hàng Châu Âu"
+    },
+    {
+      "id": "2",
+      "tenSP": "Sơ Mi Trắng",
+      "giaSP": [
+        {
+          "size": "M",
+          "price": "1.38",
+          "currency": "$"
+        },
+        {
+          "size": "L",
+          "price": "3.15",
+          "currency": "$"
+        },
+        {
+          "size": "XL",
+          "price": "4.29",
+          "currency": "$"
+        }
+      ],
+      "loaiSP": "Sơ Mi",
+      "linkAnh": "https://i.pinimg.com/736x/01/19/e9/0119e903ce83e10e8fc0db56b1fcd46e.jpg",
+      "xuatXu": "Châu Âu",
+      "phanLoai": "Hàng Mới Nhập"
+    },
+    {
+      "id": "3",
+      "tenSP": "Sơ Mi Dress",
+      "giaSP": [
+        {
+          "size": "M",
+          "price": "1.38",
+          "currency": "$"
+        },
+        {
+          "size": "L",
+          "price": "3.15",
+          "currency": "$"
+        },
+        {
+          "size": "XL",
+          "price": "4.29",
+          "currency": "$"
+        }
+      ],
+      "loaiSP": "Sơ Mi",
+      "linkAnh": "https://i.pinimg.com/564x/41/c6/25/41c6258a28ed4d5028cad2205575d041.jpg",
+      "xuatXu": "Châu Âu",
+      "phanLoai": "Hàng Châu Âu"
+    },
+    {
+      "id": "4",
+      "tenSP": "Sơ Mi Shirt",
+      "giaSP": [
+        {
+          "size": "M",
+          "price": "1.38",
+          "currency": "$"
+        },
+        {
+          "size": "L",
+          "price": "3.15",
+          "currency": "$"
+        },
+        {
+          "size": "XL",
+          "price": "4.29",
+          "currency": "$"
+        }
+      ],
+      "loaiSP": "Sơ Mi",
+      "linkAnh": "https://i.pinimg.com/564x/02/81/1d/02811d554396181c540e4cddc9e8665a.jpg",
+      "xuatXu": "Châu Phi",
+      "phanLoai": "Hàng Châu Âu"
+    },
+    {
+      "id": "5",
+      "tenSP": "Sơ Mi Cuban",
+      "giaSP": [
+        {
+          "size": "M",
+          "price": "1.38",
+          "currency": "$"
+        },
+        {
+          "size": "L",
+          "price": "3.15",
+          "currency": "$"
+        },
+        {
+          "size": "XL",
+          "price": "4.29",
+          "currency": "$"
+        }
+      ],
+      "loaiSP": "Sơ Mi",
+      "linkAnh": "https://i.pinimg.com/736x/0a/ed/40/0aed40c8b45f4135c242b8c104adc1d9.jpg",
+      "xuatXu": "Nam Phi",
+      "phanLoai": "Hàng Mới Nhập"
+    },
+    {
+      "id": "6",
+      "tenSP": "Sơ Mi Denim",
+      "giaSP": [
+        {
+          "size": "M",
+          "price": "1.38",
+          "currency": "$"
+        },
+        {
+          "size": "L",
+          "price": "3.15",
+          "currency": "$"
+        },
+        {
+          "size": "XL",
+          "price": "4.29",
+          "currency": "$"
+        }
+      ],
+      "loaiSP": "Sơ Mi",
+      "linkAnh": "https://i.pinimg.com/564x/af/43/54/af4354f8d100495a91fd966478c5651b.jpg",
+      "xuatXu": "Nam Phi",
+      "phanLoai": "Hàng Châu Âu"
+    },
+    {
+      "id": "7",
+      "tenSP": "Quần Jean Đen",
+      "giaSP": [
+        {
+          "size": "M",
+          "price": "5.50",
+          "currency": "$"
+        },
+        {
+          "size": "L",
+          "price": "10.50",
+          "currency": "$"
+        },
+        {
+          "size": "XL",
+          "price": "18.50",
+          "currency": "$"
+        }
+      ],
+      "loaiSP": "Quần Bò Jean",
+      "linkAnh": "https://i.pinimg.com/564x/e2/72/ef/e272ef4d078549e90a95f985e0c3b2dd.jpg",
+      "xuatXu": "Trung Quốc"
+    },
+    {
+      "id": "8",
+      "tenSP": "Quần Jean Trắng",
+      "giaSP": [
+        {
+          "size": "M",
+          "price": "5.50",
+          "currency": "$"
+        },
+        {
+          "size": "L",
+          "price": "10.50",
+          "currency": "$"
+        },
+        {
+          "size": "XL",
+          "price": "18.50",
+          "currency": "$"
+        }
+      ],
+      "loaiSP": "Quần Bò Jean",
+      "linkAnh": "https://i.pinimg.com/564x/9d/e6/dc/9de6dc607cab728d20c8d9c6bd32d156.jpg",
+      "xuatXu": "Việt Nam"
+    },
+    {
+      "id": "9",
+      "tenSP": "Kính GaBaNa",
+      "giaSP": [
+        {
+          "size": "M",
+          "price": "1.38",
+          "currency": "$"
+        },
+        {
+          "size": "X",
+          "price": "3.15",
+          "currency": "$"
+        },
+        {
+          "size": "XL",
+          "price": "4.29",
+          "currency": "$"
+        }
+      ],
+      "loaiSP": "Phụ kiện trang sức",
+      "linkAnh": "https://i.pinimg.com/564x/d7/cd/bd/d7cdbd8621a1f39390e1882b38f794a6.jpg",
+      "xuatXu": "Trung Quốc"
+    },
+    {
+      "id": "10",
+      "tenSP": "Túi Juno",
+      "giaSP": [
+        {
+          "size": "M",
+          "price": "1.38",
+          "currency": "$"
+        },
+        {
+          "size": "L",
+          "price": "3.15",
+          "currency": "$"
+        },
+        {
+          "size": "XL",
+          "price": "4.29",
+          "currency": "$"
+        }
+      ],
+      "loaiSP": "Phụ kiện trang sức",
+      "linkAnh": "https://i.pinimg.com/564x/8b/f7/2b/8bf72bc3ccc4c9d4f11f17b5c651d448.jpg",
+      "xuatXu": "Hàn Quốc"
+    },
+    {
+      "id": "11",
+      "tenSP": "Khuyên Bạc",
+      "giaSP": [
+        {
+          "size": "M",
+          "price": "1.38",
+          "currency": "$"
+        },
+        {
+          "size": "L",
+          "price": "3.15",
+          "currency": "$"
+        },
+        {
+          "size": "XL",
+          "price": "4.29",
+          "currency": "$"
+        }
+      ],
+      "loaiSP": "Phụ kiện trang sức",
+      "linkAnh": "https://i.pinimg.com/564x/f3/65/17/f36517bbf28f5a3780e5f83555b7f01c.jpg",
+      "xuatXu": "Trung Quốc"
+    },
+    {
+      "id": "12",
+      "tenSP": "Vòng Cổ Tian",
+      "giaSP": [
+        {
+          "size": "M",
+          "price": "1.38",
+          "currency": "$"
+        },
+        {
+          "size": "L",
+          "price": "3.15",
+          "currency": "$"
+        },
+        {
+          "size": "XL",
+          "price": "4.29",
+          "currency": "$"
+        }
+      ],
+      "loaiSP": "Phụ kiện trang sức",
+      "linkAnh": "https://i.pinimg.com/564x/ae/b9/3e/aeb93e9569fbba2cc7def819060b8ed3.jpg",
+      "xuatXu": "Trung Quốc"
+    },
+    {
+      "id": "13",
+      "tenSP": "Vòng Tay Juno",
+      "giaSP": [
+        {
+          "size": "M",
+          "price": "1.38",
+          "currency": "$"
+        },
+        {
+          "size": "L",
+          "price": "3.15",
+          "currency": "$"
+        },
+        {
+          "size": "XL",
+          "price": "4.29",
+          "currency": "$"
+        }
+      ],
+      "loaiSP": "Phụ kiện trang sức",
+      "linkAnh": "https://i.pinimg.com/736x/6e/56/68/6e5668007dc96e6627f486117dd1dffd.jpg",
+      "xuatXu": "Hàn Quốc"
+    },
+    {
+      "id": "14",
+      "tenSP": "Nhẫn Tian",
+      "giaSP": [
+        {
+          "size": "M",
+          "price": "1.38",
+          "currency": "$"
+        },
+        {
+          "size": "L",
+          "price": "3.15",
+          "currency": "$"
+        },
+        {
+          "size": "XL",
+          "price": "4.29",
+          "currency": "$"
+        }
+      ],
+      "loaiSP": "Phụ kiện trang sức",
+      "linkAnh": "https://i.pinimg.com/564x/e3/e1/25/e3e125addf823d4641993a7da7124791.jpg",
+      "xuatXu": "Trung Quốc"
+    }
+  ],
+  "carts": [
+    {
+      "id": "dd7d",
+      "idSP": "2",
+      "data": {
+        "XL": "1"
+      }
+    }
+  ],
+  "orders": [
+    {
+      "id": "8b99",
+      "idSP": "2",
+      "createAt": "1712725047666",
+      "data": {
+        "XL": "2"
+      },
+      "totalPrice": 8.58
+    },
+    {
+      "id": "c6e4",
+      "idSP": "4",
+      "createAt": "1712728977484",
+      "data": {
+        "L": "2"
+      },
+      "totalPrice": 6.3
+    },
+    {
+      "id": "cc06",
+      "idSP": "11",
+      "createAt": "1712728977644",
+      "data": {
+        "XL": "1"
+      },
+      "totalPrice": 4.29
+    }
+  ],
+  "customers": [
+    {
+      "id": "ca4e",
+      "sdt": "908927847",
+      "address": "Ha nOi"
+    },
+    {
+      "id": "f514",
+      "sdt": "0947128741",
+      "address": "Ha Noi"
+    }
+  ],
+  "payments": [
+    {
+      "id": "d3c5",
+      "soThe": "77473562",
+      "chuThe": "AGSGA",
+      "ngay": "123",
+      "CVV": "123"
+    },
+    {
+      "id": "88ce",
+      "soThe": "89164891474113",
+      "chuThe": "Nam",
+      "ngay": "11/12/2022",
+      "CVV": "11/12/2030"
+    }
+  ]
+}
